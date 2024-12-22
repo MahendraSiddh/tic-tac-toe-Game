@@ -8,5 +8,6 @@ export default {
     extend: {},
   },
   plugins: [],
+  base: '/tic-tac-toe-Game/',
 }
 
